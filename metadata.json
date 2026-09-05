@@ -1,0 +1,6 @@
+{
+  "name": "Ember & Oak",
+  "description": "Experience elevated American cuisine, handcrafted cocktails, private dining, catering and memorable moments at Ember & Oak in Austin, Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
